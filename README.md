@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @spike3333
-- 👀 I’m interested in writing code
+- 👀 I am a full stack software Engineer  who is passionate about writing code
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on new tech
 - 📫 How to reach me ping me on mail
